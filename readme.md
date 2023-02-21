@@ -67,14 +67,6 @@ https://user-images.githubusercontent.com/52904167/220471380-a9732592-5cf4-4882-
 
 
 
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 
 
