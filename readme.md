@@ -47,6 +47,11 @@ Alphapose allows us to generate 18-keypoint pose coordinates from our video.
 
 ```
 
+## Alphapose extracting pose coordinates from video
+
+https://user-images.githubusercontent.com/52904167/220471380-a9732592-5cf4-4882-b73b-106dabdca66d.mp4
+
+
 
 ## 18 Keypoints Person Pose annotations
 ![18keypointsdesc](https://user-images.githubusercontent.com/52904167/220470742-9ae63a54-8ab5-4e0d-8964-31bfa0b37503.png)
@@ -58,6 +63,8 @@ Alphapose allows us to generate 18-keypoint pose coordinates from our video.
 
 ## An Example
 ![](figs/example.png)
+
+
 
 
 ```
