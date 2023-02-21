@@ -44,11 +44,11 @@ This piece of code saves a duration of video footage from your webcam with its t
 # 4. Go to Alphapose project folder to run it, it will require a different python environment. 
 Alphapose allows us to generate 18-keypoint pose coordinates from our video.
 
-## 18 Keypoints Person Pose annotations
 
 ```
 
 
+## 18 Keypoints Person Pose annotations
 ![](figs/18keypointsdesc.jpg)
 
 ## Network Framework
@@ -58,11 +58,7 @@ Alphapose allows us to generate 18-keypoint pose coordinates from our video.
 ## An Example
 ![](figs/example.png)
 
-## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
 ```
 
 ## Authors
@@ -72,7 +68,6 @@ Contributors names and contact info
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
-Run **test_pam.py**
 
 
 
