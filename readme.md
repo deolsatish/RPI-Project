@@ -46,10 +46,10 @@ Alphapose allows us to generate 18-keypoint pose coordinates from our video.
 
 ```
 
-If you are finding difficulties in running the code: here is a google collab version:
+# If you are finding difficulties in running the code: here is a google collab version:
 
-WiSPPN_master_test_PAM.ipynb: https://colab.research.google.com/drive/1OguqFk87moYVn-gbRVkw29Q-FTfin16Y?usp=sharing
-Alphapose: https://colab.research.google.com/drive/1_3Wxi4H3QGVC28snL3rHIoeMAwI2otMR?usp=sharing
+# WiSPPN_master_test_PAM.ipynb: https://colab.research.google.com/drive/1OguqFk87moYVn-gbRVkw29Q-FTfin16Y?usp=sharing
+# Alphapose: https://colab.research.google.com/drive/1_3Wxi4H3QGVC28snL3rHIoeMAwI2otMR?usp=sharing
 
 
 ## Alphapose extracting pose coordinates from video
